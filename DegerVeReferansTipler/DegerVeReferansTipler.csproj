@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{58D69DF6-7222-41B7-A5BD-FE6ED864BF92}</ProjectGuid>
+    <ProjectGuid>{7B0F3CA9-A8E6-43E1-8CB7-85CB2A8AA5F3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Metotlar</RootNamespace>
-    <AssemblyName>Metotlar</AssemblyName>
+    <RootNamespace>DegerVeReferansTipler</RootNamespace>
+    <AssemblyName>DegerVeReferansTipler</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,8 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SepetManager.cs" />
-    <Compile Include="Urun.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
