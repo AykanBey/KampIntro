@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gün2Odev6", "Gün2Odev6\Gün2Odev6.csproj", "{26B98471-1C58-4A70-9AA1-F7CEAC0D8580}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun3Odev2", "Gun3Odev2\Gun3Odev2.csproj", "{5D41FA00-6F4B-43CD-B0B1-A4DC73E7FFDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{26B98471-1C58-4A70-9AA1-F7CEAC0D8580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26B98471-1C58-4A70-9AA1-F7CEAC0D8580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26B98471-1C58-4A70-9AA1-F7CEAC0D8580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D41FA00-6F4B-43CD-B0B1-A4DC73E7FFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D41FA00-6F4B-43CD-B0B1-A4DC73E7FFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D41FA00-6F4B-43CD-B0B1-A4DC73E7FFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D41FA00-6F4B-43CD-B0B1-A4DC73E7FFDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
