@@ -12,7 +12,7 @@ namespace Gun3Odev2
         {
             // Ref tipi kullandığımızda 140 sonucuna ulaşırız. Aşağıdaki örnek gibi:
             int sayi1 = 50;
-            int sayi2 = 100;
+            int sayi2 = 30;
             Console.WriteLine(Topla(sayi1, ref sayi2));
             Console.WriteLine($"1.Sayı : {sayi1} 2. Sayı: {sayi2} Toplam: {sayi1 + sayi2}");
         }
